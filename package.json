@@ -1,0 +1,16 @@
+{
+  "name": "web-client",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "fabric": "^4.2.0",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.1",
+    "@vue/compiler-sfc": "^3.0.0"
+  }
+}
