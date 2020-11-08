@@ -7,7 +7,7 @@ import 'fabric';
 
 export default {
   name: 'CanvasWorking',
-  async mounted() {
+  mounted() {
     const canvas = new fabric.Canvas('canvas_3', {
       width: 400,
       height: 200,

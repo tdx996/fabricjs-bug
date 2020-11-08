@@ -12,7 +12,7 @@ export default {
       canvas2: null
     }
   },
-  async mounted() {
+  mounted() {
     this.canvas2 = new fabric.Canvas('canvas_2', {
       width: 400,
       height: 200,
